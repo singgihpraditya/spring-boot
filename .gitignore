@@ -113,3 +113,7 @@ buildNumber.properties
 .flattened-pom.xml
 
 # End of https://www.gitignore.io/api/java,maven,eclipse,java-web
+/spring-boot-hibernate-thymeleaf/.project
+/spring-boot-hibernate-thymeleaf/.settings
+/spring-boot-hibernate-thymeleaf/target
+/spring-boot-hibernate-thymeleaf/.classpath
